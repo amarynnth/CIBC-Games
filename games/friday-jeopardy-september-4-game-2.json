@@ -1,0 +1,200 @@
+{
+  "title": "Friday Jeopardy — September 4th (Game 2)",
+  "timers": {
+    "buzz": 8,
+    "answer": 10
+  },
+  "rounds": [
+    {
+      "name": "Round 1",
+      "categories": [
+        {
+          "name": "DANCE",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Which dance is performed in a tutu and on pointe shoes?",
+              "answer": "Ballet"
+            },
+            {
+              "value": 400,
+              "clue": "Which Brazilian dance drives Carnival in Rio?",
+              "answer": "Samba"
+            },
+            {
+              "value": 600,
+              "clue": "Which Argentine dance is performed in close hold with sharp turns?",
+              "answer": "The tango"
+            },
+            {
+              "value": 800,
+              "clue": "Which Jamaican folk dance is performed by weaving ribbons around a pole?",
+              "answer": "Maypole"
+            },
+            {
+              "value": 1000,
+              "clue": "Which street dance style involves spinning on the head and floor?",
+              "answer": "Breakdancing"
+            }
+          ]
+        },
+        {
+          "name": "MYTHS & LEGENDS",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Which mythical bird is reborn from its own ashes?",
+              "answer": "The phoenix"
+            },
+            {
+              "value": 400,
+              "clue": "Which Greek hero was invincible except for his heel?",
+              "answer": "Achilles"
+            },
+            {
+              "value": 600,
+              "clue": "Which Jamaican folklore creature is a fire-eyed bull that roams at night?",
+              "answer": "The rolling calf"
+            },
+            {
+              "value": 800,
+              "clue": "Which Egyptian monument has the head of a person and the body of a lion?",
+              "answer": "The Sphinx",
+              "dailyDouble": true
+            },
+            {
+              "value": 1000,
+              "clue": "Which sea monster of Norse legend was said to drag whole ships under?",
+              "answer": "The Kraken"
+            }
+          ]
+        },
+        {
+          "name": "MEDICINE",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "What do you call a doctor who treats teeth?",
+              "answer": "A dentist"
+            },
+            {
+              "value": 400,
+              "clue": "What is the name for the injection that protects you against a disease?",
+              "answer": "A vaccine"
+            },
+            {
+              "value": 600,
+              "clue": "What do you call the doctor who performs operations?",
+              "answer": "A surgeon"
+            },
+            {
+              "value": 800,
+              "clue": "What does GP stand for?",
+              "answer": "General Practitioner"
+            },
+            {
+              "value": 1000,
+              "clue": "Which Greek physician gives his name to the oath doctors take?",
+              "answer": "Hippocrates"
+            }
+          ]
+        },
+        {
+          "name": "NURSERY RHYMES",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Who sat on a wall and had a great fall?",
+              "answer": "Humpty Dumpty"
+            },
+            {
+              "value": 400,
+              "clue": "What did Jack and Jill go up the hill to fetch?",
+              "answer": "A pail of water"
+            },
+            {
+              "value": 600,
+              "clue": "Which nursery rhyme character lost her sheep?",
+              "answer": "Little Bo Peep"
+            },
+            {
+              "value": 800,
+              "clue": "Which creature climbs the waterspout, only to be washed out?",
+              "answer": "The itsy bitsy spider"
+            },
+            {
+              "value": 1000,
+              "clue": "How many blackbirds were baked in the pie?",
+              "answer": "Four and twenty"
+            }
+          ]
+        },
+        {
+          "name": "TEXT SPEAK",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "What does BRB stand for?",
+              "answer": "Be right back"
+            },
+            {
+              "value": 400,
+              "clue": "What does OMG stand for?",
+              "answer": "Oh my God"
+            },
+            {
+              "value": 600,
+              "clue": "What does DM stand for?",
+              "answer": "Direct message"
+            },
+            {
+              "value": 800,
+              "clue": "What does FOMO stand for?",
+              "answer": "Fear of missing out"
+            },
+            {
+              "value": 1000,
+              "clue": "What does ETA stand for?",
+              "answer": "Estimated time of arrival"
+            }
+          ]
+        },
+        {
+          "name": "ODD JOBS",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "What do you call someone who cuts hair?",
+              "answer": "A barber"
+            },
+            {
+              "value": 400,
+              "clue": "What do you call someone who bakes bread for a living?",
+              "answer": "A baker"
+            },
+            {
+              "value": 600,
+              "clue": "What do you call someone who studies and forecasts the weather?",
+              "answer": "A meteorologist"
+            },
+            {
+              "value": 800,
+              "clue": "What do you call someone who makes and repairs shoes?",
+              "answer": "A cobbler"
+            },
+            {
+              "value": 1000,
+              "clue": "What do you call someone who studies fossils?",
+              "answer": "A palaeontologist"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "final": {
+    "category": "FIRST OF ITS KIND",
+    "clue": "Which country was the first to give women the right to vote?",
+    "answer": "New Zealand"
+  }
+}

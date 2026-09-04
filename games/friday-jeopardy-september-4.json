@@ -1,0 +1,200 @@
+{
+  "title": "Friday Jeopardy — September 4th (Game 1)",
+  "timers": {
+    "buzz": 8,
+    "answer": 10
+  },
+  "rounds": [
+    {
+      "name": "Round 1",
+      "categories": [
+        {
+          "name": "MARKET DAY",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Which fruit is boiled while still green and served as a side dish?",
+              "answer": "Green banana"
+            },
+            {
+              "value": 400,
+              "clue": "Which tuber is roasted and sold at the roadside?",
+              "answer": "Sweet potato"
+            },
+            {
+              "value": 600,
+              "clue": "Which leafy green is steamed down and served with saltfish?",
+              "answer": "Callaloo"
+            },
+            {
+              "value": 800,
+              "clue": "Which dried berry is the backbone of jerk seasoning?",
+              "answer": "Pimento, or allspice"
+            },
+            {
+              "value": 1000,
+              "clue": "Which sour green fruit is known elsewhere as ambarella?",
+              "answer": "June plum"
+            }
+          ]
+        },
+        {
+          "name": "SUPERHEROES",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Which hero is known as the Man of Steel?",
+              "answer": "Superman"
+            },
+            {
+              "value": 400,
+              "clue": "Which hero's real name is Bruce Wayne?",
+              "answer": "Batman"
+            },
+            {
+              "value": 600,
+              "clue": "Which hero got his powers from a radioactive spider bite?",
+              "answer": "Spider-Man"
+            },
+            {
+              "value": 800,
+              "clue": "Which hero swings a hammer called Mjolnir?",
+              "answer": "Thor"
+            },
+            {
+              "value": 1000,
+              "clue": "Which hero comes from the hidden island of Themyscira?",
+              "answer": "Wonder Woman"
+            }
+          ]
+        },
+        {
+          "name": "INSECTS",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Which insect makes honey?",
+              "answer": "The bee"
+            },
+            {
+              "value": 400,
+              "clue": "How many legs does an insect have?",
+              "answer": "Six"
+            },
+            {
+              "value": 600,
+              "clue": "Which insect glows in the dark and is called peenie wallie in Jamaica?",
+              "answer": "The firefly"
+            },
+            {
+              "value": 800,
+              "clue": "Which insect can lift many times its own body weight?",
+              "answer": "The ant"
+            },
+            {
+              "value": 1000,
+              "clue": "Which insect is famous for living only about a day as an adult?",
+              "answer": "The mayfly"
+            }
+          ]
+        },
+        {
+          "name": "DESSERTS",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Which frozen dessert is served in a cone?",
+              "answer": "Ice cream"
+            },
+            {
+              "value": 400,
+              "clue": "Which Jamaican tart has a pinched crust and a sweet coconut filling?",
+              "answer": "Gizzada"
+            },
+            {
+              "value": 600,
+              "clue": "Which Italian dessert is made with lady fingers soaked in coffee?",
+              "answer": "Tiramisu"
+            },
+            {
+              "value": 800,
+              "clue": "Which French pastry is filled with cream and iced with chocolate?",
+              "answer": "An éclair",
+              "dailyDouble": true
+            },
+            {
+              "value": 1000,
+              "clue": "Which sponge cake is soaked in three kinds of milk?",
+              "answer": "Tres leches"
+            }
+          ]
+        },
+        {
+          "name": "BRAND LOGOS",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Which brand's logo is a tick, often called a swoosh?",
+              "answer": "Nike"
+            },
+            {
+              "value": 400,
+              "clue": "Which coffee chain uses a green mermaid?",
+              "answer": "Starbucks"
+            },
+            {
+              "value": 600,
+              "clue": "Which sportswear brand uses three stripes?",
+              "answer": "Adidas"
+            },
+            {
+              "value": 800,
+              "clue": "Which car maker's badge is four linked rings?",
+              "answer": "Audi"
+            },
+            {
+              "value": 1000,
+              "clue": "Which delivery company hid an arrow in the white space of its name?",
+              "answer": "FedEx"
+            }
+          ]
+        },
+        {
+          "name": "SUPERSTITIONS",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Which number is treated as unlucky in much of the world?",
+              "answer": "Thirteen"
+            },
+            {
+              "value": 400,
+              "clue": "Which animal crossing your path is said to bring bad luck?",
+              "answer": "A black cat"
+            },
+            {
+              "value": 600,
+              "clue": "Which everyday object are you warned never to open indoors?",
+              "answer": "An umbrella"
+            },
+            {
+              "value": 800,
+              "clue": "Which weekday paired with the 13th is considered unlucky?",
+              "answer": "Friday"
+            },
+            {
+              "value": 1000,
+              "clue": "What are you told to knock on so you don't tempt fate?",
+              "answer": "Wood"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "final": {
+    "category": "SPORTING ORIGINS",
+    "clue": "Which country is credited with inventing the game of cricket?",
+    "answer": "England"
+  }
+}
