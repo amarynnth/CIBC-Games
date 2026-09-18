@@ -1,0 +1,200 @@
+{
+  "title": "Friday Jeopardy — September 18th (Game 2)",
+  "timers": {
+    "buzz": 8,
+    "answer": 10
+  },
+  "rounds": [
+    {
+      "name": "Round 1",
+      "categories": [
+        {
+          "name": "BUILT IN JAMAICA",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Which Kingston venue hosts Champs and the big football matches?",
+              "answer": "The National Stadium"
+            },
+            {
+              "value": 400,
+              "clue": "Which Hope Road house is now a museum to a reggae legend?",
+              "answer": "The Bob Marley Museum"
+            },
+            {
+              "value": 600,
+              "clue": "Which St. James great house is famous for its ghost story?",
+              "answer": "Rose Hall"
+            },
+            {
+              "value": 800,
+              "clue": "Which fort still stands guard over the entrance to Kingston Harbour?",
+              "answer": "Fort Charles"
+            },
+            {
+              "value": 1000,
+              "clue": "Which building in Kingston is the seat of Jamaica's Parliament?",
+              "answer": "Gordon House"
+            }
+          ]
+        },
+        {
+          "name": "ROYALTY",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Which British queen reigned for seventy years and died in 2022?",
+              "answer": "Queen Elizabeth II"
+            },
+            {
+              "value": 400,
+              "clue": "Which London palace is the monarch's official residence?",
+              "answer": "Buckingham Palace"
+            },
+            {
+              "value": 600,
+              "clue": "What is the name of the ceremony where a monarch is formally crowned?",
+              "answer": "A coronation"
+            },
+            {
+              "value": 800,
+              "clue": "What is the word for a monarch giving up the throne?",
+              "answer": "Abdication"
+            },
+            {
+              "value": 1000,
+              "clue": "Which French queen is remembered for the line about letting them eat cake?",
+              "answer": "Marie Antoinette"
+            }
+          ]
+        },
+        {
+          "name": "TRAINS & BOATS",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "What do you call the person in charge of a ship?",
+              "answer": "The captain"
+            },
+            {
+              "value": 400,
+              "clue": "What is the front end of a ship called?",
+              "answer": "The bow"
+            },
+            {
+              "value": 600,
+              "clue": "What do you call a boat built to travel underwater?",
+              "answer": "A submarine"
+            },
+            {
+              "value": 800,
+              "clue": "Which canal cuts through Central America to join the Atlantic and the Pacific?",
+              "answer": "The Panama Canal",
+              "dailyDouble": true
+            },
+            {
+              "value": 1000,
+              "clue": "What is the left-hand side of a ship called?",
+              "answer": "Port"
+            }
+          ]
+        },
+        {
+          "name": "COMEDY",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "What do you call the last line of a joke, the one that gets the laugh?",
+              "answer": "The punchline"
+            },
+            {
+              "value": 400,
+              "clue": "What is the name for comedy performed alone on stage with a microphone?",
+              "answer": "Stand-up"
+            },
+            {
+              "value": 600,
+              "clue": "What do you call comedy made up on the spot with no script?",
+              "answer": "Improv"
+            },
+            {
+              "value": 800,
+              "clue": "What is the term for a light moment dropped into a tense film or play?",
+              "answer": "Comic relief"
+            },
+            {
+              "value": 1000,
+              "clue": "Which form of humour means saying the opposite of what you actually mean?",
+              "answer": "Sarcasm, or irony"
+            }
+          ]
+        },
+        {
+          "name": "CURRENCY",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "What do you call the paper form of money?",
+              "answer": "A banknote, or a bill"
+            },
+            {
+              "value": 400,
+              "clue": "Which currency is used across most of the European Union?",
+              "answer": "The euro"
+            },
+            {
+              "value": 600,
+              "clue": "What is the currency of India?",
+              "answer": "The rupee"
+            },
+            {
+              "value": 800,
+              "clue": "Which country's currency is the won?",
+              "answer": "South Korea"
+            },
+            {
+              "value": 1000,
+              "clue": "What is the term for money that holds value because a government says so, rather than because it is backed by gold?",
+              "answer": "Fiat money"
+            }
+          ]
+        },
+        {
+          "name": "WEDDINGS",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "What does the bride traditionally throw to the crowd?",
+              "answer": "The bouquet"
+            },
+            {
+              "value": 400,
+              "clue": "What do you call the man who stands beside the groom?",
+              "answer": "The best man"
+            },
+            {
+              "value": 600,
+              "clue": "On which hand is a wedding ring traditionally worn in Jamaica?",
+              "answer": "The left hand"
+            },
+            {
+              "value": 800,
+              "clue": "Which anniversary is marked with silver?",
+              "answer": "The twenty-fifth"
+            },
+            {
+              "value": 1000,
+              "clue": "What do you call the party thrown for the bride before the wedding day?",
+              "answer": "A bridal shower"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "final": {
+    "category": "INVENTIVE MINDS",
+    "clue": "Which Italian inventor is credited with sending the first radio transmission?",
+    "answer": "Guglielmo Marconi"
+  }
+}

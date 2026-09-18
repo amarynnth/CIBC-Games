@@ -1,0 +1,200 @@
+{
+  "title": "Friday Jeopardy — September 18th (Game 1)",
+  "timers": {
+    "buzz": 8,
+    "answer": 10
+  },
+  "rounds": [
+    {
+      "name": "Round 1",
+      "categories": [
+        {
+          "name": "JAMAICAN PLACE NAMES",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Which resort city is home to the Hip Strip?",
+              "answer": "Montego Bay"
+            },
+            {
+              "value": 400,
+              "clue": "Which Kingston community is called the birthplace of reggae?",
+              "answer": "Trench Town"
+            },
+            {
+              "value": 600,
+              "clue": "Which Portland town is the gateway to the Blue Lagoon?",
+              "answer": "Port Antonio"
+            },
+            {
+              "value": 800,
+              "clue": "Which St. Elizabeth fishing village is known for its black sand beaches?",
+              "answer": "Treasure Beach"
+            },
+            {
+              "value": 1000,
+              "clue": "Which village do the Maroons gather in each January to mark their treaty?",
+              "answer": "Accompong"
+            }
+          ]
+        },
+        {
+          "name": "COLOURS",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Which colour do you get when you mix red and white?",
+              "answer": "Pink"
+            },
+            {
+              "value": 400,
+              "clue": "Which colour sits between green and violet in a rainbow?",
+              "answer": "Blue"
+            },
+            {
+              "value": 600,
+              "clue": "Which colour is traditionally worn to a funeral in the West?",
+              "answer": "Black"
+            },
+            {
+              "value": 800,
+              "clue": "What do you call two colours that sit opposite each other on the colour wheel?",
+              "answer": "Complementary colours"
+            },
+            {
+              "value": 1000,
+              "clue": "Which three colours are the primary colours of light?",
+              "answer": "Red, green and blue"
+            }
+          ]
+        },
+        {
+          "name": "TOOLS & HARDWARE",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Which tool drives a nail into wood?",
+              "answer": "A hammer"
+            },
+            {
+              "value": 400,
+              "clue": "Which tool grips and turns nuts and bolts?",
+              "answer": "A wrench, or spanner"
+            },
+            {
+              "value": 600,
+              "clue": "Which tool tells you whether a surface is even?",
+              "answer": "A spirit level"
+            },
+            {
+              "value": 800,
+              "clue": "Which tool is used to bore holes and comes corded or cordless?",
+              "answer": "A drill"
+            },
+            {
+              "value": 1000,
+              "clue": "Which tool shaves thin layers off wood to smooth it?",
+              "answer": "A plane"
+            }
+          ]
+        },
+        {
+          "name": "BOOKS",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Who wrote the Harry Potter series?",
+              "answer": "J.K. Rowling"
+            },
+            {
+              "value": 400,
+              "clue": "Which book is the best-selling of all time?",
+              "answer": "The Bible"
+            },
+            {
+              "value": 600,
+              "clue": "Which novel opens with a girl falling down a rabbit hole?",
+              "answer": "Alice's Adventures in Wonderland"
+            },
+            {
+              "value": 800,
+              "clue": "Which fantasy series follows a hobbit carrying a magic ring?",
+              "answer": "The Lord of the Rings",
+              "dailyDouble": true
+            },
+            {
+              "value": 1000,
+              "clue": "What do you call the list of chapters printed at the front of a book?",
+              "answer": "The table of contents"
+            }
+          ]
+        },
+        {
+          "name": "THE FIVE SENSES",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "Which sense do you use your tongue for?",
+              "answer": "Taste"
+            },
+            {
+              "value": 400,
+              "clue": "Which sense is most closely tied to memory?",
+              "answer": "Smell"
+            },
+            {
+              "value": 600,
+              "clue": "Which part of the eye opens and closes to control how much light gets in?",
+              "answer": "The pupil"
+            },
+            {
+              "value": 800,
+              "clue": "Which sense does an optician test?",
+              "answer": "Sight, or vision"
+            },
+            {
+              "value": 1000,
+              "clue": "Which part of the eye gives it its colour?",
+              "answer": "The iris"
+            }
+          ]
+        },
+        {
+          "name": "THE OLYMPICS",
+          "clues": [
+            {
+              "value": 200,
+              "clue": "How many years pass between Summer Olympic Games?",
+              "answer": "Four years"
+            },
+            {
+              "value": 400,
+              "clue": "Which medal goes to the athlete who finishes third?",
+              "answer": "The bronze"
+            },
+            {
+              "value": 600,
+              "clue": "In which country did the Olympic Games begin?",
+              "answer": "Greece"
+            },
+            {
+              "value": 800,
+              "clue": "Which event combines swimming, cycling and running?",
+              "answer": "The triathlon"
+            },
+            {
+              "value": 1000,
+              "clue": "What is lit at the opening ceremony and burns until the Games close?",
+              "answer": "The Olympic flame"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "final": {
+    "category": "WORLD LANDMARKS",
+    "clue": "Which Indian monument was built as a tomb for an emperor's wife?",
+    "answer": "The Taj Mahal"
+  }
+}
